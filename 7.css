@@ -1,0 +1,51 @@
+body{
+    padding: 4px;
+}
+.desc{
+    margin-bottom: 20px;
+}
+.inner{
+    margin: 0px;
+}
+div{
+    border-color: aqua;
+    padding-left: 2px;
+    border-width: 5px;
+    margin-top: 10px;
+}
+.div1{
+    border-style: dotted;
+}
+.div2{
+    border-style: dashed;
+}
+.div3{
+    border-style: solid;
+}
+.div4{
+    border-style: double;
+}
+.div5{
+    border-style: groove;
+}
+.div6{
+    border-style: ridge;
+}
+.div7{
+    border-style: inset;
+}
+.div8{
+    border-style: outset;
+}
+.div9{
+    border-style: none;
+}
+.div10{
+    border-style: hidden;
+}
+.div11{
+    border-top-style: dotted;
+    border-left-style: double;
+    border-bottom-style: solid;
+    border-right-style: dashed;
+}

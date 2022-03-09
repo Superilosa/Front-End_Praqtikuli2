@@ -1,0 +1,20 @@
+.inner{
+    margin: 0px;
+    padding: 0px
+}
+.round{
+    width: 150px;
+    height: 100px;
+    padding: 10px;
+    border-radius: 20%;
+}
+.upper{
+    background-color: darkred;
+    border-style: solid;
+}
+.middle{
+    border-style: solid;
+}
+.lower{
+    background-image: url("https://previews.123rf.com/images/valery_potapova/valery_potapova1109/valery_potapova110900029/10626154-beautiful-dramatic-sea-water-background.jpg");
+}

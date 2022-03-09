@@ -1,0 +1,16 @@
+.round{
+    margin: 10px;
+    width: 210px;
+    height: 140px;
+    background-color: darkred;
+    border-style: solid;
+}
+.upper{
+    border-radius: 50px/15px;
+}
+.middle{
+    border-radius: 15px/50px;
+}
+.lower{
+    border-radius: 50%;
+}
